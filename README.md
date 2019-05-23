@@ -1,6 +1,6 @@
-#Formatting Practice
-##Formatting Practice
-####Formatting Practice
- -list
- -list
- -list
+# Formatting Practice
+## Formatting Practice
+#### Formatting Practice
+ - list
+ - list
+ - list
